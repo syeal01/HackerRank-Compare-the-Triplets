@@ -1,0 +1,16 @@
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Compare-the-Triplets\bin\Debug\net5.0\HackerRank-Compare-the-Triplets.exe
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Compare-the-Triplets\bin\Debug\net5.0\HackerRank-Compare-the-Triplets.deps.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Compare-the-Triplets\bin\Debug\net5.0\HackerRank-Compare-the-Triplets.runtimeconfig.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Compare-the-Triplets\bin\Debug\net5.0\HackerRank-Compare-the-Triplets.runtimeconfig.dev.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Compare-the-Triplets\bin\Debug\net5.0\HackerRank-Compare-the-Triplets.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Compare-the-Triplets\bin\Debug\net5.0\ref\HackerRank-Compare-the-Triplets.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Compare-the-Triplets\bin\Debug\net5.0\HackerRank-Compare-the-Triplets.pdb
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Compare-the-Triplets\obj\Debug\net5.0\HackerRank-Compare-the-Triplets.csproj.AssemblyReference.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Compare-the-Triplets\obj\Debug\net5.0\HackerRank-Compare-the-Triplets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Compare-the-Triplets\obj\Debug\net5.0\HackerRank-Compare-the-Triplets.AssemblyInfoInputs.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Compare-the-Triplets\obj\Debug\net5.0\HackerRank-Compare-the-Triplets.AssemblyInfo.cs
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Compare-the-Triplets\obj\Debug\net5.0\HackerRank-Compare-the-Triplets.csproj.CoreCompileInputs.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Compare-the-Triplets\obj\Debug\net5.0\HackerRank-Compare-the-Triplets.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Compare-the-Triplets\obj\Debug\net5.0\ref\HackerRank-Compare-the-Triplets.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Compare-the-Triplets\obj\Debug\net5.0\HackerRank-Compare-the-Triplets.pdb
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Compare-the-Triplets\obj\Debug\net5.0\HackerRank-Compare-the-Triplets.genruntimeconfig.cache
